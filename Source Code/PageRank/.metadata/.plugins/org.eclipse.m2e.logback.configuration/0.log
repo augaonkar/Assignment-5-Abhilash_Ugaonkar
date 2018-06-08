@@ -1,0 +1,142 @@
+2017-12-10 14:28:27,460 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-12-10 14:29:00,277 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.stevens.cs549:PageRank:1.0.0 @ F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\pom.xml.
+2017-12-10 14:29:02,160 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PageRank.toDist/src
+2017-12-10 14:29:02,160 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /PageRank.toDist/src overlaps with sources folder /PageRank.toDist/src
+2017-12-10 14:29:02,164 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /PageRank.toDist/src/test/java because it overlaps with /PageRank.toDist/src
+2017-12-10 14:29:02,382 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2017-12-10 14:29:04,209 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 14:29:04,219 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 14:29:04,224 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 14:29:04,225 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 14:29:37,789 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 14:29:37,791 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 14:29:37,793 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 14:29:37,794 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 14:45:00,880 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 14:45:00,885 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 14:45:00,888 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 14:45:00,889 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 14:58:26,483 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 14:58:26,483 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 14:58:26,483 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 14:58:26,483 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 14:58:58,922 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 14:58:58,937 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 14:58:58,937 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 14:58:58,937 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 14:59:19,754 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 14:59:19,754 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 14:59:19,754 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 14:59:19,754 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 15:11:05,640 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:11:05,656 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 15:11:05,656 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:11:05,656 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 15:14:08,301 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:14:08,301 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 15:14:08,317 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:14:08,317 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 15:16:42,778 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:16:42,793 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 15:16:42,793 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:16:42,793 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 15:17:52,274 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:17:52,274 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 15:17:52,274 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:17:52,274 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 15:18:19,473 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:18:19,473 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 15:18:19,473 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:18:19,473 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 15:24:02,600 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist
+2017-12-10 15:24:02,600 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-12-10 15:24:04,786 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:24:04,786 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 15:24:04,786 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:24:04,786 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 15:39:12,418 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:39:12,418 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 15:39:12,418 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:39:12,418 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 15:39:51,401 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:39:51,401 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 15:39:51,417 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:39:51,417 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 15:40:08,240 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:40:08,240 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 15:40:08,240 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 15:40:08,240 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 16:17:49,873 [Worker-55] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist
+2017-12-10 16:17:49,873 [Worker-55] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-12-10 16:17:51,814 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 16:17:51,814 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 16:17:51,829 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 16:17:51,829 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 16:35:12,100 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 16:35:12,116 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 16:35:12,116 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 16:35:12,116 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 16:40:20,642 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 16:40:20,642 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 16:40:20,658 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 16:40:20,658 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 16:40:50,811 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 16:40:50,811 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 16:40:50,811 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 16:40:50,811 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 16:41:15,588 [Worker-66] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist
+2017-12-10 16:41:15,588 [Worker-66] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-12-10 16:41:17,355 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 16:41:17,355 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 16:41:17,355 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 16:41:17,355 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 17:46:01,171 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 17:46:01,175 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 17:46:01,178 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 17:46:01,179 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 17:46:16,118 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 17:46:16,120 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 17:46:16,122 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 17:46:16,123 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 17:58:05,379 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 17:58:05,381 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 17:58:05,382 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 17:58:05,383 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 18:12:21,832 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 18:12:21,832 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 18:12:21,836 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 18:12:21,836 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 18:51:22,062 [Worker-113] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist
+2017-12-10 18:51:22,064 [Worker-113] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-12-10 18:51:55,743 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 18:51:55,746 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 18:51:55,747 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 18:51:55,748 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 18:52:03,538 [Worker-99] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist
+2017-12-10 18:52:03,538 [Worker-99] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-12-10 18:52:05,328 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 18:52:05,330 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 18:52:05,331 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 18:52:05,333 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 18:52:13,767 [Worker-111] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist
+2017-12-10 18:52:13,767 [Worker-111] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-12-10 18:52:18,527 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 18:52:18,529 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 18:52:18,531 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 18:52:18,531 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 18:53:35,045 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 18:53:35,046 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 18:53:35,047 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 18:53:35,048 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 18:53:42,652 [Worker-115] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist
+2017-12-10 18:53:42,652 [Worker-115] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-12-10 18:53:44,441 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 18:53:44,443 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 18:53:44,444 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 18:53:44,445 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources
+2017-12-10 18:53:48,921 [Worker-99] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist
+2017-12-10 18:53:48,921 [Worker-99] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-12-10 18:53:53,379 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 18:53:53,381 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-10 18:53:53,382 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-10 18:53:53,383 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\CS-549-Distributed Cloud Computing\Assignment 5-Abhilash_Ugaonkar\Source Code\PageRank\PageRank.toDist\src\test\resources

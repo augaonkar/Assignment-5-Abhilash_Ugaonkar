@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1512767790538_0" label="PageRank" name="PageRank">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PageRank" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1512776055609_1" label="Window Working Set" name="Aggregate for window 1512776055609"/>
+</workingSetManager>
